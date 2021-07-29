@@ -1,0 +1,40 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-backgroud-color{
+    background-color: #264653;
+}
+.custom-color-size{
+   color: #E0E0E0;
+   font-weight: 300;
+}
+.grayscale{
+    filter: grayscale(1);
+}
+.faq-p-color,.ln-p-color{
+    color: #6C6C6C;
+
+}
+.filled{
+    color: #E77C40;
+}
+.accordion-body-font-color{
+    color:  #7E848C;
+}
+
+.footer-background-color{
+    background-color:  #0B0D17;
+
+}
+.footer-ul{
+    list-style: none;
+}
+.footer-ul li a{
+    text-decoration: none;
+    color: lightgrey;
+    font-size: 1rem;
+}
